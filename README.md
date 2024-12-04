@@ -1,4 +1,4 @@
-# Docker and GitHub Actions Starter Project
+# Automated CI/CD Pipeline for Flask Application with Docker and GitHub Actions 
 
 ## Project Overview
 This is a simple Flask web application demonstrating the integration of Docker containerization and GitHub Actions for continuous integration and deployment.
